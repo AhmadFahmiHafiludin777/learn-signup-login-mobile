@@ -74,6 +74,8 @@ public class LoginActivity extends AppCompatActivity {
         }
     }
 
+//    komentar
+
     public void checkUser() {
         String userUsername = loginUsername.getText().toString().trim();
         String userPassword = loginPassword.getText().toString().trim();
